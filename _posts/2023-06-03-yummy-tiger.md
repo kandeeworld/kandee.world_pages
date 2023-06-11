@@ -1,8 +1,10 @@
 ---
+layout: page
 title: "Yummy Tiger"
 date: 2023-06-03
 author: Kandee Studios
 description: Our apps make the world better
+permalink: /yummy_tiger
 ---
 
 # Yummy Tiger
