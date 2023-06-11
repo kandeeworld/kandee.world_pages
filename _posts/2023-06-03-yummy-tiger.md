@@ -16,8 +16,14 @@ Very SIMPLE and ADDICTIVE Game!
 
 Enjoy your Jungle experience! 
 
-Download it from
+# Download it from
 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.kandee.YummyTiger)
+[![Play Store](/docs/assets/general/google_play_badge.png)](https://play.google.com/store/apps/details?id=com.kandee.YummyTiger)
 
-![Screenshot1](/docs/assets/yummy_tiger/screenshot_1.png) ![Screenshot2](/docs/assets/yummy_tiger/screenshot_2.png) ![Screenshot3](/docs/assets/yummy_tiger/screenshot_3.png)
+# More screenshots:
+
+![Screenshot1](/docs/assets/yummy_tiger/screenshot_1.png)
+
+![Screenshot2](/docs/assets/yummy_tiger/screenshot_2.png)
+
+![Screenshot3](/docs/assets/yummy_tiger/screenshot_3.png)
