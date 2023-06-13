@@ -18,9 +18,9 @@ Very SIMPLE and ADDICTIVE Game!
 
 Enjoy your Jungle experience! 
 
-# Download it from
+# Get it from
 
-[![Play Store](/docs/assets/general/google_play_badge.png)](https://play.google.com/store/apps/details?id=com.kandee.YummyTiger)
+[![Support Us and Get It](/docs/assets/general/support-us-and-get-it.png)](https://ko-fi.com/s/92e2cbb11b)
 
 # More screenshots:
 
