@@ -18,8 +18,6 @@ Very SIMPLE and ADDICTIVE Game!
 
 Enjoy your Jungle experience! 
 
-# Get it from
-
 [![Support Us and Get It](/docs/assets/general/support-us-and-get-it.png)](https://ko-fi.com/s/92e2cbb11b)
 
 # More screenshots:
