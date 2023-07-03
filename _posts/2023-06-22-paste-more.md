@@ -4,10 +4,10 @@ title: "Paste More"
 date: 2023-06-22
 author: Kandee Studios
 description: Our apps make the world better
-permalink: /paste_more
+permalink: /paste-more
 ---
 
-# Copy & Paste several times on MacOS
+# Copy & Paste several times on Mac OS
 
 ![Banner](/docs/assets/paste_more/feature_ad.png)
 
